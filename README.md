@@ -1,57 +1,20 @@
-# WEBSITE Project
+# Project
 
-> 🤖 Этот проект был автоматически сгенерирован с помощью AI Constructor Bot
+Generated with AI Constructor Bot
 
-## 📝 Описание
-
-создай лендинг для продажи соьак, порода японский шпиц
-
-## 🚀 Технологии
-
-- HTML5  
-- CSS3 (Sass для удобства)  
-- JavaScript (для интерактивных элементов)  
-- Возможность адаптации под React/Next.js, если нужен динамический функционал (например, корзина или форма заказа)
-
-## 📁 Структура проекта
-
-- `package.json`
-- `index.html`
-- `vite.config.js`
-- `tailwind.config.js`
-- `postcss.config.js`
-- `src/index.css`
-- `src/main.jsx`
-- `src/App.jsx`
-- `src/components/IconRegistry.tsx`
-- `src/components/SafeIcon.tsx`
-- `src/globals.css`
-- `vercel.json`
-- `.gitignore`
-- `README.md`
-
-## 🛠️ Установка
+## Development
 
 ```bash
 npm install
-```
-
-## ▶️ Запуск
-
-```bash
-npm start
-# или
 npm run dev
 ```
 
-## 📋 План разработки
+## Build
 
-1.
+```bash
+npm run build
+```
 
-## 📄 Лицензия
+## Deploy
 
-MIT
-
-## 🤖 Создано с помощью
-
-[AI Constructor Bot](https://t.me/construct_ai_bot) - Telegram бот для автоматической генерации проектов с помощью AI
+Deployed automatically to Vercel via GitHub.
